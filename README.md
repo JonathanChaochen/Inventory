@@ -16,7 +16,6 @@ Run
 npm start
 ```
 
-
 ### `Test`
 
 Run
@@ -25,5 +24,4 @@ Run
 npm test
 ```
 
-
-The server will run on localhost port 3000
+The app will run on localhost port 3000
