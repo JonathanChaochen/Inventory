@@ -13,7 +13,7 @@ describe('<List /> tests', () => {
     wrapper = shallow(<List list={{ name: 'book' }} />);
   });
 
-  it('should render one < <Button/>', () => {
+  it('should render one <Button/>', () => {
     expect(wrapper.find(Button)).toHaveLength(1);
   });
 
